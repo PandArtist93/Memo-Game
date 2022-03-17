@@ -60,7 +60,7 @@ function App() {
         {won && (
           <>You won the game! Congratulations! <br /></>
         )}
-        clicks: {clicks} &nbsp;&nbsp; Found Pairs: {foundPairs.length/2}
+        clicks: {clicks} &nbsp;&nbsp;&nbsp;&nbsp; Found Pairs: {foundPairs.length/2}
       </div>
     </div>
   );

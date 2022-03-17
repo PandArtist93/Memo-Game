@@ -1,5 +1,8 @@
 body {
-  background-color: #123;
+  /* background-color: #123; */
+  background-image: url("./Backgrounds/background.png");
+  background-size: cover;
+  background-position: bottom;
  /*  margin: 20px; */
   /* padding: 1rem 0; */
   padding: 20px;
@@ -52,7 +55,10 @@ body {
 }
 
 .card .back {
-  background-color: #357;
+  /* background-color: #357; */
+  background-image: url("./Backgrounds/memo-game_logo.PNG");
+  background-size: cover;
+  background-position: top;
   transform:rotateY(180deg);
 }
 
