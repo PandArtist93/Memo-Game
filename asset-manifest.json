@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Memo-Game/static/css/main.5f87d00c.css",
+    "main.js": "/Memo-Game/static/js/main.68731790.js",
+    "static/js/787.88ab9f7e.chunk.js": "/Memo-Game/static/js/787.88ab9f7e.chunk.js",
+    "static/media/03.jpg": "/Memo-Game/static/media/03.7614b64fdd2e925177b5.jpg",
+    "static/media/04.jpg": "/Memo-Game/static/media/04.b6b76c4bb0e8b64df59e.jpg",
+    "static/media/09.jpg": "/Memo-Game/static/media/09.e72a82e71dc27f03dced.jpg",
+    "static/media/13.jpg": "/Memo-Game/static/media/13.8a4d796f183e7ad54fdc.jpg",
+    "static/media/05.jpg": "/Memo-Game/static/media/05.c961526f010c246da2f7.jpg",
+    "static/media/15.jpg": "/Memo-Game/static/media/15.7b016eae4f3917636c81.jpg",
+    "static/media/14.jpg": "/Memo-Game/static/media/14.3ac829300563f8fe486f.jpg",
+    "static/media/01.jpg": "/Memo-Game/static/media/01.700c1f6f5468a66904ec.jpg",
+    "static/media/08.jpg": "/Memo-Game/static/media/08.c00bd76372f05191efe6.jpg",
+    "static/media/11.jpg": "/Memo-Game/static/media/11.05c135220c83a69bd3b9.jpg",
+    "static/media/06.jpg": "/Memo-Game/static/media/06.758d07b9b692110ea00b.jpg",
+    "static/media/07.jpg": "/Memo-Game/static/media/07.c844d11f4a8f552c2681.jpg",
+    "static/media/12.jpg": "/Memo-Game/static/media/12.ca8c99ab0e0f0a1be753.jpg",
+    "static/media/18.jpg": "/Memo-Game/static/media/18.ca09694b2edf35d7f2dc.jpg",
+    "static/media/02.jpg": "/Memo-Game/static/media/02.75682766479384dc15ae.jpg",
+    "static/media/17.jpg": "/Memo-Game/static/media/17.f8cae4184f514f446553.jpg",
+    "static/media/16.jpg": "/Memo-Game/static/media/16.6363775f7c4d8ac55409.jpg",
+    "index.html": "/Memo-Game/index.html",
+    "main.5f87d00c.css.map": "/Memo-Game/static/css/main.5f87d00c.css.map",
+    "main.68731790.js.map": "/Memo-Game/static/js/main.68731790.js.map",
+    "787.88ab9f7e.chunk.js.map": "/Memo-Game/static/js/787.88ab9f7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f87d00c.css",
+    "static/js/main.68731790.js"
+  ]
+}
